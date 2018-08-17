@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Conversation With Mike Blake and Kristin Bond
-date:
+date: 2018-08-17 17:49:05
 tags:
 excerpt: >-
   We recently had the opportunity to speak with Mike and Kristin from The Blake
@@ -47,5 +47,3 @@ We recently had the awesome opportunity to sit down with Mike Blake and Kristin 
 1:05:50- The Blake Team’s No. 1 secret to success.
 
 If you have any questions for us about The Blake Team, the real estate market, or the real estate business in general, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
-
-&nbsp;
