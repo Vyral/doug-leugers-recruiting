@@ -1,7 +1,7 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: true
+title: Florida's Best Real Estate Training
+description: Doug Leugers, a top Real Estate Agent in Florida, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+show_custom_links: false
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
@@ -14,21 +14,35 @@ custom_links:
 
 
 client:
-  name:
+  name: Doug Leugers
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Leugers Group, Powered By eXp Realty which represents the TOP 1% of Realtors in the United States as members of the National Association of Expert Advisors. Doug & Lona Leugers have been in the Real Estate business for a long time. They have over 23 years of combined experience, with specialties in the Luxury, Appraisal, Title, Auctioneer, and Commercial markets.
+  market: Florida
+  brand: Leugers Group
+  brokerage: Brokered by eXp Realty
+  address: 1625 SE 46th Street, Suite 4-A<br>Cape Coral FL 33904
+  phone: 239-984-8838
   phone_type:
   phone2:
   phone2_type:
   email:
-  url:
+  url: http://searchfloridagulfhomes.com
+
+sidebar_CTA:
+  - CTA_image_path: /img/cta-images/006.jpg
+    CTA_title: "Join Our Team"
+    CTA_text: "Let's talk about how The Leugers Group can take your business to new heights."
+    CTA_link_text: "Contact"
+    CTA_url: /contact/
+
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/005.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -44,11 +58,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/WeSellFlorida
+  linkedin_url: http://www.linkedin.com/in/dougleugers
+  gplus_url: https://plus.google.com/+DougLeugers
+  youtube_url: https://www.youtube.com/user/dleugers
+  twitter_url: https://twitter.com/_DLREA
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -74,8 +88,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#171796'
+  theme_color: '#212121'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
