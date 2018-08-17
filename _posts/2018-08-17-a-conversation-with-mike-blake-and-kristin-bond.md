@@ -18,7 +18,7 @@ youtube_code: QxhE4mWfbHY
 
 {% include youtube.html %}
 
-We recently had the awesome opportunity to sit down with Mike Blake and Kristin Bond from Rochester, Michigan, to talk a little bit about their business, their team, and what they’ve got going on. Here’s an outline of our conversation, which you can watch in its entirety in the video above:
+We recently had the awesome opportunity to sit down with Mike Blake and Kristin Bond from Rochester, Michigan, to talk a little bit about their business, their team, and what they’ve got going on. **Here’s an outline of our conversation, which you can watch in its entirety in the video above:**
 
 1:00- An intro to The Blake Team’s market, their team, and their business stats.
 
