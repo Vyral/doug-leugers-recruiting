@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Conversation With Mike Blake and Kristin Bond
-date: 2018-08-17 17:49:05
+date: 2018-08-17 17:49:00
 tags:
 excerpt: >-
   We recently had the opportunity to speak with Mike and Kristin from The Blake
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: QxhE4mWfbHY
+youtube_code: Ot-iS5J9Taw
 ---
 
 {% include youtube.html %}
