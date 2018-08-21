@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Conversation With Mike Blake and Kristin Bond
+title: A Mastermind with Mike Blake and Kristin Bond from the Mike Blake Team
 date: 2018-08-17 17:49:00
 tags:
 excerpt: >-
