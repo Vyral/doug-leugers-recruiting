@@ -1,6 +1,6 @@
 audit_header: false
 title: Florida's Best Real Estate Training
-description: Doug Leugers, a top Real Estate Agent in Florida, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Doug and Lona Leugers, a top Real Estate Agent in Florida, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
   - title: Join Our Team
@@ -14,35 +14,31 @@ custom_links:
 
 
 client:
-  name: Doug Leugers
+  name: Doug and Lona Leugers
   title:
   license_number:
   about_markdown: |
-    Leugers Group, Powered By eXp Realty which represents the TOP 1% of Realtors in the United States as members of the National Association of Expert Advisors. Doug & Lona Leugers have been in the Real Estate business for a long time. They have over 23 years of combined experience, with specialties in the Luxury, Appraisal, Title, Auctioneer, and Commercial markets.
+    Since 2003. Doug and Lona Leugers have been leaders in Real Estate. With thousands of post transactions, and over ten thousand agents coached. They are well-regarded as industry innovators and mentors. They are the founders of Team Freedom, and have expanded their group of REALTOR partners across the US and Internationally.
   market: Florida
-  brand: Leugers Group
+  brand: Team Freedom
   brokerage: Brokered by eXp Realty
   address: 1625 SE 46th Street, Suite 4-A<br>Cape Coral FL 33904
-  phone: 239-984-8838
+  phone: 239-940-1152
   phone_type:
   phone2:
   phone2_type:
   email:
   url: http://searchfloridagulfhomes.com
 
-sidebar_CTA:
-  - CTA_image_path: /img/cta-images/006.jpg
-    CTA_title: "Join Our Team"
-    CTA_text: "Let's talk about how The Leugers Group can take your business to new heights."
-    CTA_link_text: "Contact"
-    CTA_url: /contact/
-
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
+CTAS:
+  cta1: Join Our Team
+  cta1_link: /join-our-team/
+  cta2: Free Newsletter
+  cta2_link: /subscribe/
+  cta3: Free Strategy Call
+  cta3_link: /strategy-call/
+  cta4: Events
+  cta4_link: /
 
 lender:
   show_section: false

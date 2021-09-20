@@ -2,83 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florida's Best Real Estate Training</title>
-    <description>Doug Leugers, a top Real Estate Agent in Florida, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Aug 2018 11:35:22 -0500</pubDate>
-    <lastBuildDate>Fri, 17 Aug 2018 11:35:22 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <description>Doug and Lona Leugers, a top Real Estate Agent in Florida, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Sep 2021 14:49:11 -0500</pubDate>
+    <lastBuildDate>Mon, 20 Sep 2021 14:49:11 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Real Estate Rockstar Mastermind: Maximizing ROI</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RV3mc7Oew9s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;On the latest episode of our Real Estate Rockstar Mastermind, we talked about how to maximize ROI by creating the right team structure. &lt;strong&gt;Here’s an outline of the discussion, with timestamps so that you can skip to the part(s) that interest you most:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;0:55- A common question we get from team leaders about commission splits.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;4:35- An example of mistakes team leaders can make with their splits.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7:30- How can you keep your team accountable and loyal with a 50/50 split?&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;12:30- An example of a tiered system for handling different commission splits.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;15:00- How we hold our team accountable in terms of lead generation.&lt;/p&gt;
+
+&lt;p&gt;21:20- How we track SOI leads in our system.&lt;/p&gt;
+
+&lt;p&gt;23:20- How we handle any team member turnover in the middle of a transaction.&lt;/p&gt;
+
+&lt;p&gt;30:00- Our commission splits for our buyer’s and seller’s agents.&lt;/p&gt;
+
+&lt;p&gt;39:20- The only type of lead where we don’t have a referral fee.&lt;/p&gt;
+
+&lt;p&gt;40:45- Recommendations for how to pay your ISAs.&lt;/p&gt;
+
+&lt;p&gt;45:00- A few final thoughts on agent compensation.&lt;/p&gt;
+
+&lt;p&gt;Thanks to all of our wonderful guests for joining us for this insightful mastermind. If you have any questions for us about anything we discussed in the video above, please feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
 </description>
-        <pubDate>Thu, 10 May 2018 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <pubDate>Tue, 11 Sep 2018 11:49:39 -0500</pubDate>
+        <link>http://localhost:4000/real-estate-rockstar-mastermind-maximizing-roi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/real-estate-rockstar-mastermind-maximizing-roi.html</guid>
         
         
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>A Mastermind with Mike Blake and Kristin Bond from the Mike Blake Team</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/u3KbSNzoIO8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;We recently had the awesome opportunity to sit down with Mike Blake and Kristin Bond from Rochester, Michigan, to talk a little bit about their business, their team, and what they’ve got going on. &lt;strong&gt;Here’s an outline of our conversation, which you can watch in its entirety in the video above:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;1:00- An intro to The Blake Team’s market, their team, and their business stats.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;5:00- The Blake Team’s goals for 2018 and beyond.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;11:00- How Mike take’s his team members motivations and uses them to help the team grow as a whole.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;13:15- The best lead generation sources for The Blake Team and their lead generation budget.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;19:00- How The Blake Team is able to hire one new agent each month.&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;22:30- How Mike and Kristin keep their agents engaged and continuing in their education.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;29:30- The key to The Blake Team’s success in the real estate business.&lt;/p&gt;
+
+&lt;p&gt;35:10- How Mike and Kristin catch their new agents up to speed with training.&lt;/p&gt;
+
+&lt;p&gt;39:20- The Blake Team’s “Lead Days” and how they’re structured.&lt;/p&gt;
+
+&lt;p&gt;47:30- How Mike takes part-time agents and helps them transition to full-time agents.&lt;/p&gt;
+
+&lt;p&gt;51:30- How The Blake Team provides exceptional customer service and value to their clients.&lt;/p&gt;
+
+&lt;p&gt;1:00:15- How the little changes The Blake Team made to their business helped multiply their volume.&lt;/p&gt;
+
+&lt;p&gt;1:05:50- The Blake Team’s No. 1 secret to success.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions for us about The Blake Team, the real estate market, or the real estate business in general, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <pubDate>Fri, 17 Aug 2018 12:49:00 -0500</pubDate>
+        <link>http://localhost:4000/a-mastermind-with-mike-blake-and-kristin-bond-from-the-mike-blake-team.html</link>
+        <guid isPermaLink="true">http://localhost:4000/a-mastermind-with-mike-blake-and-kristin-bond-from-the-mike-blake-team.html</guid>
         
         
       </item>
