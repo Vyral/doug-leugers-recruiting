@@ -11,7 +11,7 @@ custom_links:
   - title: Events
     url:
   - title: Free Strategy Call
-    url: /strategy-call/
+    url: https://calendly.com/doug-lona/doug-and-lona-30-min
   - title: Free Newsletter
     url: /subscribe/
 client:
@@ -27,12 +27,12 @@ client:
   market: Florida
   brand: Team Freedom
   brokerage: Brokered by eXp Realty
-  address: 1625 SE 46th Street, Suite 4-A<br>Cape Coral FL 33904
+  address: 15271 McGregor Blvd., Suite 16<br>Ft. Myers, FL 33908
   phone: 239-599-5084
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: Lona@TeamFreedom.International
   url: http://searchfloridagulfhomes.com
 CTAS:
   cta1: Join Our Team
@@ -40,7 +40,7 @@ CTAS:
   cta2: Free Newsletter
   cta2_link: /subscribe/
   cta3: Free Strategy Call
-  cta3_link: /strategy-call/
+  cta3_link: https://calendly.com/doug-lona/doug-and-lona-30-min
   cta4: Events
   cta4_link: /
 lender:
@@ -89,11 +89,12 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 30
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
+  header_overlay: rgba(238,238,238,0.0)
 site_colors:
   brand_color: '#171796'
   theme_color: '#212121'
