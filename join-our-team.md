@@ -20,6 +20,6 @@ permalink: /join-our-team/
 
 <div>
 <h4>We'll call you to schedule a free coaching call with us<br>
-<a href="https://calendly.com/doug-lona/doug-and-lona-30-min?month=2021-09"><b>at Doug & Lona</b></a></h4>
+<a href="https://calendly.com/doug-lona/doug-and-lona-30-min?month=2021-09" target="_blank"><b>at Doug & Lona</b></a></h4>
 </div>
 <br><br>
