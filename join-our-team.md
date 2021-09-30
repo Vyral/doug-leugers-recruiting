@@ -11,7 +11,7 @@ permalink: /join-our-team/
 <div class="recruiting-photo">
 
 <span class="client-image-container">
-<img src="/img/headshot.jpg" align="center" alt="{{site.data.settings.client.name}}"/>
+<img src="/img/headshot.jpg" align="center" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
