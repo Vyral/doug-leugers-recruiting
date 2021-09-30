@@ -16,6 +16,7 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
+<br><br>
 <h4>We'll call you to schedule<br>
 a free coaching call with us at <br>
 <a href="https://calendly.com/doug-lona/doug-and-lona-30-min?month=2021-09"><b>Doug & Lona</b></a></h4>
