@@ -5,6 +5,7 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
+<br>
 <h1 class="join-us">Join One of the Fastest Growing International Real Estate Companies in the World</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
