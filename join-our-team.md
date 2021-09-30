@@ -19,6 +19,6 @@ permalink: /join-our-team/
 a free coaching call with us at <br>
 <a href="https://calendly.com/doug-lona/doug-and-lona-30-min?month=2021-09"><b>Doug & Lona</b></a></h4>
 
-<!--
+<br><br>
+
 <div data-paperform-id="dougandlona"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
--->
