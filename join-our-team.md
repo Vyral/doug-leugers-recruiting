@@ -17,7 +17,6 @@ permalink: /join-our-team/
 </div>
 
 <div data-paperform-id="dougandlona"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
-
 <div>
 <div style="text-align: center">
 <h4>We'll call you to schedule a free coaching call with us<br>
