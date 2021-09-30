@@ -14,5 +14,8 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
+We'll call you to schedule a a free coaching call with us <a href="https://calendly.com/doug-lona/doug-and-lona-30-min?month=2021-09">here</a>
 
+<!--
 <div data-paperform-id="dougandlona"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+-->
