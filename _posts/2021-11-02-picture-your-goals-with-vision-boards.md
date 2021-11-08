@@ -11,8 +11,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/leugers-yt.jpg
-youtube_code: IClVSnmG2IM
+youtube_alternate_image: /uploads/Leugers_YT-(1).jpg
+youtube_code: tNEkDEGlVJc
 ---
 {% include youtube.html %}
 
