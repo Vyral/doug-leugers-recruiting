@@ -6,7 +6,8 @@ tags:
     - real estate
     - vision board
 excerpt: ' Here’s why you should use vision boards to visualize your goals.'
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2021/Picture+Your+Goals+With+Vision+Boards.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
