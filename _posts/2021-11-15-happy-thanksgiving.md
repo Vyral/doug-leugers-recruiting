@@ -5,7 +5,7 @@ date: 2021-11-15 05:00:00
 tags:
     - holidays
     - happy thanksgiving
-excerpt: We're thankful for you!
+excerpt: Today we want to say thank you to all our wonderful clients!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -30,6 +30,4 @@ Enjoy your Thanksgiving dinner—that’s what we plan to do\!
 
 In the meantime, please don’t hesitate to reach out to us if you have any real estate questions. We would be happy to help you.
 
-Happy Thanksgiving,
-
-Doug and Lona Leugers
+Happy Thanksgiving\!
