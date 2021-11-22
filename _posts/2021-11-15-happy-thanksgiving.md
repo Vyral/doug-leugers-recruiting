@@ -5,7 +5,7 @@ date: 2021-11-15 05:00:00
 tags:
     - holidays
     - happy thanksgiving
-excerpt: Today we want to say thank you to all our wonderful clients!
+excerpt: Why is expressing gratitude so important?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
