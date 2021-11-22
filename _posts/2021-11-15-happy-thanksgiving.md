@@ -18,7 +18,7 @@ youtube_code: dCrJ1taMZQA
 
 {% include excerpt.html %}
 
-Friends,
+Dear clients, friends, and colleagues,
 
 The 2021 holiday season has officially begun\! We hope you are as excited as we are.
 
