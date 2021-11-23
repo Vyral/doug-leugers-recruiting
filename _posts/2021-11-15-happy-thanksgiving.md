@@ -6,7 +6,8 @@ tags:
     - holidays
     - happy thanksgiving
 excerpt: Why is expressing gratitude so important?
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2021/Happy+Thanksgiving!+(11).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
