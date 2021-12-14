@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/leugers-yt-1.jpg
-youtube_code: hFw2GquzA6Y
+youtube_code: Fu5xvfgsXPc
 ---
 {% include youtube.html %}
 
