@@ -6,7 +6,7 @@ tags:
   - Buyer Prospects
   - Lead Generation
   - Transaction Management
-excerpt: We go over how reaching out to your database will increase your business.
+excerpt: Here's how reaching out to your database will increase your business.
 enclosure:
 pullquote: Getting referrals from your sphere of influence is huge.
 enclosure_type: video/mp4
