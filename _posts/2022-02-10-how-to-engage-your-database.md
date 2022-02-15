@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/leugers-yt-3.jpg
-youtube_code: TQztGC4pWT0
+youtube_code: Di3qmg62G3M
 ---
 {% include youtube.html %}
 
@@ -21,9 +21,9 @@ youtube_code: TQztGC4pWT0
 
 Today we'll talk about how to engage your database and sphere of influence to get more business in 2022.
 
-Getting referrals from your sphere of influence is huge because those are people that already know you, like you, and trust you. The difference between your sphere of influence and buyer or seller leads is that they’re registering on many different websites and are getting chased by other Realtors. You should have leads coming in from different sources, and you should be chasing them.**&nbsp;Working your sphere of influence will help maximize your business in 2022.**
+Getting referrals from your sphere of influence is huge because those are people that already know you, like you, and trust you. The difference between your sphere of influence and buyer or seller leads is that they’re registering on many different websites and are getting chased by other Realtors. You should have leads coming in from different sources, and you should be chasing them. **Working your sphere of influence will help maximize your business in 2022.**
 
-We’ve put together an awesome script for you to use and engage your database periodically. It’s really simple—it’s not designed to ask your sphere of influence for referral business; instead, it lets them know that you’re thinking about them and that you care. Those two things tend to naturally spark conversations about real estate.&nbsp;
+We’ve put together an awesome script for you to use and engage your database periodically. It’s really simple—it’s not designed to ask your sphere of influence for referral business; instead, it lets them know that you’re thinking about them and that you care. Those two things tend to naturally spark conversations about real estate.
 
 {% include pullquote.html %}
 
