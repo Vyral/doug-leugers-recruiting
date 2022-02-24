@@ -32,6 +32,6 @@ c. Leads that have logged into the database most recently. We hit these leads ha
 
 **2\. Take great notes.** If a co-worker were to win the lottery and never come back to work, you should be able to look at their lead notes in the CRM and pick up where they left off. There’s no sense in starting over with each lead and having the same conversations over again. Be sure to write down their ‘why,’ ‘when,’ and ‘what’ so that you or your team know what’s most important to that lead.
 
-**3\. Follow up.** Many people drop the ball when it comes to this, but there’s gold in the follow-up. After you’ve had a conversation with the lead and identified their three Ws, schedule a reminder to follow up with them every 30 days. Most of our leads are years out from buying or selling, but we don’t want them to forget about us in the meantime.
+**3\. Follow up.** Many people drop the ball when it comes to this, but there’s gold in the follow-up. After you’ve had a conversation with the lead and identified their three W's, schedule a reminder to follow up with them every 30 days. Most of our leads are years out from buying or selling, but we don’t want them to forget about us in the meantime.
 
 If you have any questions about today’s tips or anything else to do with maximizing your real estate business, don’t hesitate to give us a call or send us an email. We’d love to hear from you.
