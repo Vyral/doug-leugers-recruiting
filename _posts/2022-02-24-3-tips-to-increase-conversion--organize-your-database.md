@@ -10,7 +10,7 @@ enclosure:
 pullquote: ' After you’ve identified a lead’s three Ws, schedule a reminder to follow up with them every 30 days.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/leugers-yt-4.jpg
 youtube_code: fpE-VukQNw4
 ---
