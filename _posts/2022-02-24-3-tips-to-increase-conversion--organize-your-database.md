@@ -20,13 +20,13 @@ youtube_code: fpE-VukQNw4
 
 Leads aren’t cheap. We spend lots of money on leads to convert them. So how do the top agents and teams in the country prioritize their database to ensure maximum conversion? Here are our top three tips:
 
-**1\. Prioritize your leads:**
+**1\. Prioritize your leads by placing them in three categories:**
 
-a. Brand-new leads. Prioritize new leads in your database that you haven’t even attempted to reach out to yet. Ideally, you’d pick up the phone and call them as soon as they register on your website. That increases your chances of converting that lead. Remember that people often register on multiple websites, so if you don’t get them on the phone as soon as possible, other agents will be happy to do it for you.
+Category 1: Brand-new leads. Prioritize new leads in your database that you haven’t even attempted to reach out to yet. Ideally, you’d pick up the phone and call them as soon as they register on your website. That increases your chances of converting that lead. Remember that people often register on multiple websites, so if you don’t get them on the phone as soon as possible, other agents will be happy to do it for you.
 
-b. Leads from the last 14 days. For these leads, contact them consistently and often. We have leads that have been in our database for years, and we still get conversions out of them because we never give up.
+Category 2: Leads from the last 14 days. For these leads, contact them consistently and often. We have leads that have been in our database for years, and we still get conversions out of them because we never give up.
 
-c. Leads that have logged into the database most recently. We hit these leads hard because leads are the hottest when they are currently looking at listings. Leads can sometimes disappear for months before logging back in; just make sure that when they do, you catch them ASAP.
+Category 3: Leads that have logged into the database most recently. We hit these leads hard because leads are the hottest when they are currently looking at listings. Leads can sometimes disappear for months before logging back in; just make sure that when they do, you catch them ASAP.
 
 {% include pullquote.html %}
 
