@@ -20,7 +20,7 @@ youtube_code: uV19h-t_7ms
 
 Today I want to speak with you about what’s happening in our market. As we head further into the year, things are just getting crazier and crazier. What does it all mean for you? Let’s talk about it.&nbsp;
 
-With inflation rising, many people are worried about their finances. **Fortunately, real estate is a great hedge against inflation.** If you check out the chart at 0:22 in the video, you’ll see that home appreciation has outpaced inflation in nearly every decade since the 19070s. If you want to protect your wealth, putting it into housing is a safe bet.&nbsp;
+With inflation rising, many people are worried about their finances. **Fortunately, real estate is a great hedge against inflation.** If you check out the chart at 0:22 in the video, you’ll see that home appreciation has outpaced inflation in nearly every decade since the 1970s. If you want to protect your wealth, putting it into housing is a safe bet.&nbsp;
 
 So what about home prices? The chart at 0:56 shows how much the experts think home prices will appreciate by 2026. Even the most pessimistic predictions say the average house will increase in value by 23.7%. Meanwhile, the optimists believe they could go up by 62.5%\!
 
