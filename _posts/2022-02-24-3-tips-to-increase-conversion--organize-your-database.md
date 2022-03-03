@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: 'Today we’ll share our top three tips to help you maximize your CRM. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2022/3+Tips+To+Increase+Conversion+%26+Organize+Your+Database.mp4
 pullquote: ' After you’ve identified a lead’s three w''s, schedule a reminder to follow up with them every 30 days.'
 enclosure_type: video/mp4
 enclosure_time:
