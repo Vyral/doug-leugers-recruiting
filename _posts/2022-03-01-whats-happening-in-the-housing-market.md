@@ -5,6 +5,7 @@ date: 2022-03-01 04:00:00
 tags:
   - Market Update
   - Real Estate
+  - Real Estate Blog
 excerpt: 'Here’s what you need to know about our crazy housing market. '
 enclosure:
 pullquote: ' Even the most pessimistic predictions say the average house will appreciate 23.7% by 2026.'
