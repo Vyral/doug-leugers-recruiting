@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meet Our Team
+title: Agent Training Blog
 permalink: /agent-training-blog/
 tags:
   - Agent Training Blog

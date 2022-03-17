@@ -3,7 +3,7 @@ layout: default
 title: Real Estate Blog
 permalink: /real-estate-blog/
 tags:
-  - Our Agents
+  - Real Estate Blog
 ---
 {% for post in site.tags["Real Estate Blog"] %}
   <div class="row content-container">
