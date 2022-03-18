@@ -3,6 +3,9 @@ layout: post
 title: A Mastermind with Mike Blake and Kristin Bond from the Mike Blake Team
 date: 2018-08-17 17:49:00
 tags:
+  - Agent Training Blog
+  - Transaction Management
+  - Lead Generation
 excerpt: >-
   We recently had the opportunity to speak with Mike and Kristin from The Blake
   Team in Rochester, Michigan. Here’s what they had to say.
@@ -15,7 +18,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: u3KbSNzoIO8
 ---
-
 {% include youtube.html %}
 
 We recently had the awesome opportunity to sit down with Mike Blake and Kristin Bond from Rochester, Michigan, to talk a little bit about their business, their team, and what they’ve got going on. **Here’s an outline of our conversation, which you can watch in its entirety in the video above:**
