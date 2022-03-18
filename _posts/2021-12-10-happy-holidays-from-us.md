@@ -4,6 +4,7 @@ title: Happy Holidays From Us
 date: 2021-12-10 05:00:00
 tags:
   - happy holidays
+  - Real Estate Blog
 excerpt: From our team to your family, we want to wish you a happy holiday season
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2021/Happy+Holidays+From+Us+(2).mp4
