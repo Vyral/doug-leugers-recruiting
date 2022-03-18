@@ -6,6 +6,7 @@ tags:
   - Buyer Prospects
   - Lead Generation
   - Transaction Management
+  - Agent Training Blog
 excerpt: Here's how reaching out to your database will increase your business.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2022/How+To+Engage+Your+Database.mp4
