@@ -5,6 +5,7 @@ date: 2021-11-15 05:00:00
 tags:
     - holidays
     - happy thanksgiving
+    - Real Estate Blog
 excerpt: Why is expressing gratitude so important?
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2021/Happy+Thanksgiving!+(11).mp4
