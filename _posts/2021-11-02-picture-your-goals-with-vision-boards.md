@@ -3,8 +3,8 @@ layout: post
 title: Picture Your Goals With Vision Boards
 date: 2021-11-02 05:00:00
 tags:
-    - real estate
-    - vision board
+    - Vision Board
+    - Agent Training Blog
 excerpt: ' Here’s why you should use vision boards to visualize your goals.'
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2021/Picture+Your+Goals+With+Vision+Boards.mp4
