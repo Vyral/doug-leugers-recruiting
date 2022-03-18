@@ -3,6 +3,10 @@ layout: post
 title: 'Real Estate Rockstar Mastermind: Maximizing ROI'
 date: 2018-09-11 16:49:39
 tags:
+  - Agent Training Blog
+  - Lead Conversion
+  - Lead Generation
+  - Buyer Prospects
 excerpt: >-
   Agent compensation is an important topic for team leaders in this business.
   Our latest Real Estate Rockstar Mastermind dove into this topic in great
@@ -16,7 +20,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: RV3mc7Oew9s
 ---
-
 {% include youtube.html %}
 
 On the latest episode of our Real Estate Rockstar Mastermind, we talked about how to maximize ROI by creating the right team structure. **Here’s an outline of the discussion, with timestamps so that you can skip to the part(s) that interest you most:**
