@@ -7,10 +7,7 @@ tags:
   - Lead Conversion
   - Lead Generation
   - Buyer Prospects
-excerpt: >-
-  Agent compensation is an important topic for team leaders in this business.
-  Our latest Real Estate Rockstar Mastermind dove into this topic in great
-  detail.
+excerpt:  Agent compensation is an important topic for team leaders in this business. We dive into this topic in great detail.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Doug+Leugers/Real+Estate+Rockstar+Mastermind+-Maximizing+ROI+by+Creating+the+Right+Team+Structure.mp4
 pullquote:

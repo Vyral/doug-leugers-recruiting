@@ -5,8 +5,8 @@
     <description>Doug and Lona Leugers, a top Real Estate Agent in Florida, shares their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Mar 2022 13:23:56 -0500</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2022 13:23:56 -0500</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2022 12:07:21 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2022 12:07:21 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -115,6 +115,8 @@
         
         <category>Transaction Management</category>
         
+        <category>Agent Training Blog</category>
+        
         
       </item>
     
@@ -139,6 +141,8 @@
         <guid isPermaLink="true">http://localhost:4000/happy-holidays-from-us.html</guid>
         
         <category>happy holidays</category>
+        
+        <category>Real Estate Blog</category>
         
         
       </item>
@@ -170,6 +174,8 @@
         <category>holidays</category>
         
         <category>happy thanksgiving</category>
+        
+        <category>Real Estate Blog</category>
         
         
       </item>
@@ -204,9 +210,9 @@
         <link>http://localhost:4000/picture-your-goals-with-vision-boards.html</link>
         <guid isPermaLink="true">http://localhost:4000/picture-your-goals-with-vision-boards.html</guid>
         
-        <category>real estate</category>
+        <category>Vision Board</category>
         
-        <category>vision board</category>
+        <category>Agent Training Blog</category>
         
         
       </item>
@@ -246,6 +252,14 @@
         <pubDate>Tue, 11 Sep 2018 11:49:39 -0500</pubDate>
         <link>http://localhost:4000/real-estate-rockstar-mastermind-maximizing-roi.html</link>
         <guid isPermaLink="true">http://localhost:4000/real-estate-rockstar-mastermind-maximizing-roi.html</guid>
+        
+        <category>Agent Training Blog</category>
+        
+        <category>Lead Conversion</category>
+        
+        <category>Lead Generation</category>
+        
+        <category>Buyer Prospects</category>
         
         
       </item>
@@ -287,6 +301,12 @@
         <pubDate>Fri, 17 Aug 2018 12:49:00 -0500</pubDate>
         <link>http://localhost:4000/a-mastermind-with-mike-blake-and-kristin-bond-from-the-mike-blake-team.html</link>
         <guid isPermaLink="true">http://localhost:4000/a-mastermind-with-mike-blake-and-kristin-bond-from-the-mike-blake-team.html</guid>
+        
+        <category>Agent Training Blog</category>
+        
+        <category>Transaction Management</category>
+        
+        <category>Lead Generation</category>
         
         
       </item>

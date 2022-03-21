@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Team Freedom - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Doug and Lona Leugers</managingEditor>
-    <lastBuildDate>2022-03-17 13:23:56 -0500</lastBuildDate>
+    <lastBuildDate>2022-03-21 12:07:21 -0500</lastBuildDate>
     <media:copyright>Doug and Lona Leugers</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -120,6 +120,8 @@ If you have any questions about today’s tips or anything else to do with maxim
         
           <category>Transaction Management</category>
         
+          <category>Agent Training Blog</category>
+        
         <author>Doug and Lona Leugers</author>
         <pubDate>2022-02-09 23:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2022/How+To+Engage+Your+Database.mp4</guid>
@@ -163,6 +165,8 @@ If you have any questions, visit our website, and don’t hesitate to reach out 
         
           <category>happy holidays</category>
         
+          <category>Real Estate Blog</category>
+        
         <author>Doug and Lona Leugers</author>
         <pubDate>2021-12-09 23:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2021/Happy+Holidays+From+Us+(2).mp4</guid>
@@ -197,6 +201,8 @@ In case we don’t hear from you until 2022, have a happy New Year!
           <category>holidays</category>
         
           <category>happy thanksgiving</category>
+        
+          <category>Real Estate Blog</category>
         
         <author>Doug and Lona Leugers</author>
         <pubDate>2021-11-14 23:00:00 -0600</pubDate>
@@ -233,9 +239,9 @@ Happy Thanksgiving!
         <title>Picture Your Goals With Vision Boards</title>
         <link>http://localhost:4000/picture-your-goals-with-vision-boards.html</link>
         
-          <category>real estate</category>
+          <category>Vision Board</category>
         
-          <category>vision board</category>
+          <category>Agent Training Blog</category>
         
         <author>Doug and Lona Leugers</author>
         <pubDate>2021-11-02 00:00:00 -0500</pubDate>
@@ -278,6 +284,14 @@ We hope these practices help you meet all of your goals this next year. We want 
         <title>Real Estate Rockstar Mastermind: Maximizing ROI</title>
         <link>http://localhost:4000/real-estate-rockstar-mastermind-maximizing-roi.html</link>
         
+          <category>Agent Training Blog</category>
+        
+          <category>Lead Conversion</category>
+        
+          <category>Lead Generation</category>
+        
+          <category>Buyer Prospects</category>
+        
         <author>Doug and Lona Leugers</author>
         <pubDate>2018-09-11 11:49:39 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Doug+Leugers/Real+Estate+Rockstar+Mastermind+-Maximizing+ROI+by+Creating+the+Right+Team+Structure.mp4</guid>
@@ -315,15 +329,21 @@ Thanks to all of our wonderful guests for joining us for this insightful masterm
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Doug+Leugers/Real+Estate+Rockstar+Mastermind+-Maximizing+ROI+by+Creating+the+Right+Team+Structure.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Agent compensation is an important topic for team leaders in this business. Our latest Real Estate Rockstar Mastermind dove into this topic in great detail.</itunes:subtitle>
+        <itunes:subtitle>Agent compensation is an important topic for team leaders in this business. We dive into this topic in great detail.</itunes:subtitle>
         <itunes:author>Doug and Lona Leugers</itunes:author>
-        <itunes:summary>Agent compensation is an important topic for team leaders in this business. Our latest Real Estate Rockstar Mastermind dove into this topic in great detail.</itunes:summary>
+        <itunes:summary>Agent compensation is an important topic for team leaders in this business. We dive into this topic in great detail.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>A Mastermind with Mike Blake and Kristin Bond from the Mike Blake Team</title>
         <link>http://localhost:4000/a-mastermind-with-mike-blake-and-kristin-bond-from-the-mike-blake-team.html</link>
+        
+          <category>Agent Training Blog</category>
+        
+          <category>Transaction Management</category>
+        
+          <category>Lead Generation</category>
         
         <author>Doug and Lona Leugers</author>
         <pubDate>2018-08-17 12:49:00 -0500</pubDate>
