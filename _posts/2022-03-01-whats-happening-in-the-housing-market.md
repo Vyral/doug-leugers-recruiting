@@ -7,7 +7,8 @@ tags:
   - Real Estate
   - Real Estate Blog
 excerpt: 'Here’s what you need to know about our crazy housing market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2022/What%E2%80%99s+Happening+in+the+Housing+Market_.mp4
 pullquote: ' Even the most pessimistic predictions say the average house will appreciate 23.7% by 2026.'
 enclosure_type: video/mp4
 enclosure_time:
