@@ -6,7 +6,7 @@ tags:
   - Agent Training Blog
 excerpt: How to create videos to maximize the success of your real estate business.
 enclosure:
-pullquote:
+pullquote: We had to get comfortable with being uncomfortable on camera.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
