@@ -33,4 +33,4 @@ Through plenty of trial and error over the years, we learned how to leverage vid
 
 **Bonus tip:** Don’t wait for everything to be perfect to get started. Try not to worry about people judging you. Focus on progress, not perfection.&nbsp;
 
-Feel free to use this video as an example of the tips we shared today. To schedule a free, no-obligation video coaching call, click on our Calendly link&nbsp;[here](https://calendly.com/doug-lona/doug-and-lona-30-min?month=2022-04){: target="_blank" rel="noopener"}&nbsp;and find a time that works for you. If you have any other real estate questions, call or email us. We would love to help you.
+Feel free to use this video as an example of the tips we shared today. To schedule a free, no-obligation video coaching call, click on our Calendly link&nbsp;**[here](https://calendly.com/doug-lona/doug-and-lona-30-min?month=2022-04){: target="_blank" rel="noopener"}**&nbsp;and find a time that works for you. If you have any other real estate questions, call or email us. We would love to help you.
