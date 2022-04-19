@@ -5,7 +5,8 @@ date: 2022-04-14 06:00:00
 tags:
   - Agent Training Blog
 excerpt: How to create videos to maximize the success of your real estate business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Doug+Leugers/2022/How+To+Leverage+Video+for+Your+Business.mp4
 pullquote: We had to get comfortable with being uncomfortable on camera.
 enclosure_type: video/mp4
 enclosure_time:
