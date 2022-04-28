@@ -4,7 +4,7 @@ title: 'What Makes Cape Coral So Great? '
 date: 2022-04-26 06:00:00
 tags:
   - Real Estate Blog
-excerpt: 'We highlight one of Florida’s greatest hidden gems: Cape Coral!'
+excerpt: 'Highlighting one of Florida’s greatest hidden gems: Cape Coral!'
 enclosure:
 pullquote: 'Cape Coral has over 400 canals; the most in the world! '
 enclosure_type: video/mp4
@@ -19,13 +19,13 @@ youtube_code: KBb6EJJr5j8
 
 Do you know about Cape Coral? It’s one of the most desirable locations in Florida, and today we want to highlight what makes it so special.&nbsp;
 
-Cape Coral has consistently been showing up in Forbes’ list of top 10 real estate markets in the U.S. for several years, and this year is no different. **As the eighth best market in the country, Cape Coral is a hot destination for people from all over the world.** Founded in 1957 as a waterfront wonderland, this area was mostly swampland until savvy investors laid plans for its future.&nbsp;
+Cape Coral has consistently been showing up in Forbes’ list of the top 10 real estate markets in the U.S. for several years, and this year is no different. **As the eighth best market in the country, Cape Coral is a hot destination for people from all over the world.** Founded in 1957 as a waterfront wonderland, this area was mostly swampland until savvy investors laid plans for its future.&nbsp;
 
 Cape Coral was designed to be a boater’s paradise, so it’s home to over 400 canals. That’s more than Venice, Italy\! The Cape is home to fantastic fishing and boating opportunities, but if that isn’t enough for you, **we want to break down five reasons why people love this area:**
 
-1\. Prices are lower than other waterfront cities
+1\. Prices are lower than in other waterfront cities
 
-2\. The climate allows you to enjoy outdoor activities all year round
+2\. The climate allows you to enjoy outdoor activities year-round
 
 {% include pullquote.html %}
 
