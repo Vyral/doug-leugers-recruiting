@@ -6,7 +6,7 @@ tags:
   - Real Estate Blog
 excerpt: 'Highlighting one of Florida’s greatest hidden gems: Cape Coral!'
 enclosure:
-pullquote: 'Cape Coral has over 400 canals; the most in the world! '
+pullquote: 'Cape Coral has over 400 miles of canals; the most in the world! '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
