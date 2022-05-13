@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/leugers-yt-7.jpg
-youtube_code: MOKiG_mM36E
+youtube_code: MnPu0Lj_vpQ
 ---
 {% include youtube.html %}
 
@@ -23,12 +23,12 @@ $900,000 x 4% = $36,000
 
 $36,000 / 12 = $3,000
 
-What does this formula represent? **It’s the Freedom Formula**, and it’s what financial advisors say you need to have saved in the bank to be able to retire someday. You need to have $900,000 in the bank after taxes, and every year, you can withdraw 4% of it for $36,000 in yearly income or $3,000 in monthly income.
+**The Freedom Formula is what financial advisors say you need to have saved in the bank**&nbsp;to be able to retire someday. You need to have $900,000 in the bank after taxes, and every year, you can withdraw 4% of it for $36,000 in yearly income or $3,000 in monthly income.
 
 {% include pullquote.html %}
 
 We know what you’re thinking. That $3,000 a month won’t even pay your current bills, let alone the bills you’ll have to pay in the future. Out of the 10,000 or more Realtors we’ve coached over the years, **not very many of them had that money in the bank.&nbsp;**
 
-The real estate model is broken, and as I see it, you have two choices: save $900,000 after taxes or work until you die. If neither of those options sounds sexy, there is a third one, and **we’d be happy to walk you through it.**
+The real estate model is broken, and as we see it, you have two choices: save $900,000 after taxes or work until you die. If neither of those options sounds sexy, there is a third one, and **we’d be happy to walk you through it.**
 
-Follow [this link](https://calendly.com/doug-lona/doug-and-lona-30-min?month=2022-05) and schedule a time to customize this formula for your business.
+[Follow this link](https://calendly.com/doug-lona/doug-and-lona-30-min?month=2022-05){: target="_blank" rel="noopener"}to schedule a time for us to help you customize the Freedom Formula to your business. Or if you'd like us to walk you through your third option or have any other questions, just call or email us. We would love to help you.
