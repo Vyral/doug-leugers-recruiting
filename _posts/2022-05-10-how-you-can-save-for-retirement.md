@@ -17,7 +17,7 @@ youtube_code: MOKiG_mM36E
 
 {% include excerpt.html %}
 
-If you stopped selling homes today, how much money would you need to make to sustain your lifestyle? How much money will you need each month when you retire someday? Today we're talking about the Freedom Formula, which every agent needs to know, but few do. Let’s not waste any time:
+If you stopped selling homes today, how much money would you need to make to sustain your lifestyle? How much money will you need each month when you retire someday? Today we're talking about the Freedom Formula, which every agent needs to know, but few do:
 
 $900,000 x 4% = $36,000
 
