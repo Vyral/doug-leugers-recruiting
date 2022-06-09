@@ -17,4 +17,4 @@ youtube_code: 5lHCDhVULDM
 
 {% include excerpt.html %}
 
-Does your lifestyle call for more boating, walks along the canal, and shopping? If so, you’re in luck: Today we’re showing you where to find all that and more in the scenic Cape Coral community. Cape Coral is a hub for those who enjoy eating great food, biking, spending time on the water, scuba diving, and buying and selling homes in sunny southwest Florida. We’ve helped people from all over the country (and even the world) move to this beautiful paradise, so today let’s look at why this is such a desirable location. To see what you’re missing, watch this short video.
+Do you like boating, walking along the canal, and shopping? If so, you’re in luck: Today we’re showing you where to find all that and more in the scenic Cape Coral community. Cape Coral is a hub for those who enjoy eating great food, biking, spending time on the water, and scuba diving. We’ve helped people from all over the country (and even the world) move to this beautiful paradise. To find out why this is such a desirable location, watch our latest video
