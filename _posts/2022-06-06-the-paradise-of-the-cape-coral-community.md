@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/leugers-ss.jpg
-youtube_code: 6AO28F5uCLU
+youtube_code: A7FwhSNhLpg
 ---
 {% include youtube.html %}
 
